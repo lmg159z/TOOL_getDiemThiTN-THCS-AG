@@ -1,3 +1,9 @@
+```
++--------------------------+
+| Lê Minh Ghi              |
+| github.com/lmg159z       |
++--------------------------+
+
 ## Project: Lấy điểm thi vào lớp 10 tỉnh An Giang
 
 ### Mô tả:
